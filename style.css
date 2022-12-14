@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1620121684840-edffcfc4b878?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80') ;
+   
+    display: cover;
+
+  
+}
+h1 {
+color: red;
+background: Black;
+
+font-style: bold;
+font-stretch: semi-expanded;
+text-shadow: 2px 2px yellow;
+font-size: 50px;
+}
+h2{
+color:yellow;
+  font-stretch: semi-expanded;
+  text-shadow: 2px 2px red;
+  font-size: 25px;
+}
